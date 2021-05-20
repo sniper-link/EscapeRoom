@@ -1,2 +1,2 @@
-# Escape Room Game
-  Can You Escape
+# Game X
+  Chill Adventure Game
